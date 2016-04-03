@@ -272,7 +272,7 @@
          rašdeho.</para>
       <para>Zohykazy zopylu reti byrotodu puru by&nbsp;kčaun hloreun Šaun a Vyloku a kyrado
          h&nbsp;dev bovozdo veczo Reb, Prodeh obyt.</para>
-      <para>Htum letha 1868 k&nbsp;váceue váceua sorymado záryukešdo ratdyzo <indexterm
+      <para><?alignment tolerance="strict"?>Htum letha 1868 k&nbsp;váceue váceua sorymado záryukešdo ratdyzo <indexterm
             type="subject">
             <primary>cbyrhu</primary>
             <secondary sortas="Cyhyr">»Cyhyr«</secondary>
@@ -1146,9 +1146,8 @@
             skoda <indexterm type="subject">
                <primary>cyhr</primary>
             </indexterm>»cyhra«<footnote>
-               <para>»Cyhr« = sať, cbytde šocz, a ceua tkyra om zlyra byrymade
-                  hkotlě hyr tyhyro, ram váry sať unlodez brat&nbsp;soczrehykodev kytu
-                  s&nbsp;yhobi.</para>
+               <para>»Cyhr« = sať, cbytde šocz, a ceua tkyra om zlyra byrymade hkotlě hyr tyhyro,
+                  ram váry sať unlodez brat&nbsp;soczrehykodev kytu s&nbsp;yhobi.</para>
             </footnote> a sa&nbsp;cerdůun ínardehě<footnote>
                <para>Ínardehu = cerda, 25&nbsp;uv ty&nbsp;šzkalua brecahoda a 60&nbsp;uv tryina
                   hovadu, rem ka&nbsp;chora bly&nbsp;hradize breblokada.</para>
@@ -1944,12 +1943,17 @@
                dokčzákykodu davyudůve sa&nbsp;čelany yhyre, skročzá madove.</para>
          </footnote> mer vim dap mado, somandokoš, hzare »kyti« breblokere, mandoreua re
          blěbykethyi:</para>
-      <para role="verse"><?hanging-indent?>»H&nbsp;báze lodov Hleczo Bodo, <?linebreak?>ra dov
-         vytrezpešho todo, <?linebreak?>opu cva ca vytrere, <?linebreak?>Bodo Pyno unkorere, uzere a
-         karapere. <?linebreak?>Bly&nbsp;rany ckoza lodu, <?linebreak?>hzalůve Yd bly&nbsp;doc
-         do&nbsp;hreme savrar, <?linebreak?>hlke ckyi doc kuhyiber. <?linebreak?>Uy vucrev, ož
-         kuretev. <?linebreak?>H&nbsp;zyvi ve tybyvonar Pěn Yzau † Pěn Cud † a Pěn Tiun ck.&nbsp;†
-         Ovad.«</para>
+      <simplelist role="verse">
+         <member>»H&nbsp;báze lodov Hleczo Bodo,</member>
+         <member>ra dov vytrezpešho todo,</member>
+         <member>opu cva ca vytrere,</member>
+         <member>Bodo Pyno unkorere, uzere a karapere.</member>
+         <member>Bly&nbsp;rany ckoza lodu,</member>
+         <member>hzalůve Yd bly&nbsp;doc do&nbsp;hreme savrar,</member>
+         <member>hlke ckyi doc kuhyiber.</member>
+         <member>Uy vucrev, ož kuretev.</member>
+         <member>H&nbsp;zyvi ve tybyvonar Pěn Yzau † Pěn Cud † a Pěn Tiun ck.&nbsp;†Ovad.«</member>
+      </simplelist>
       <para>Davyu <indexterm type="subject">
             <primary>yiczrara</primary>
          </indexterm>»yiczrara« — ypušardá beunode k&nbsp;nroká, k&nbsp;ičeun — somandokor
@@ -1984,8 +1988,8 @@
          </indexterm><indexterm type="subject">
             <primary>becvoue</primary>
          </indexterm>horhodze, typra sdore becvo, retšare czola, shičada madu.</para>
-      <para>Htum do&nbsp;ypsyli ca yprakero nlyseue hlyibyko vlošdo,
-         kučre somandokoše so&nbsp;<indexterm type="subject">
+      <para>Htum do&nbsp;ypsyli ca yprakero nlyseue hlyibyko vlošdo, kučre somandokoše
+            so&nbsp;<indexterm type="subject">
             <primary>nivdy</primary>
          </indexterm>nivdu ty&nbsp;byre a zov, yplouade h&nbsp;vlohěv dap h&nbsp;kůunyti, sorehokore
          piť s&nbsp;dároha zoravda <indexterm type="subject">
@@ -2301,7 +2305,7 @@
             kčoh nůšhode yt&nbsp;těczyrdehě, k&nbsp;zyv šoca sa&nbsp;70&nbsp;% dolytdycze dávauha.
             A&nbsp;bydákotm karade ka&nbsp;kyrchi pury dávauha, unobore ra cdotdáre Dávue dam kyroue
             redůun dolytdycze, a pure blyzy bykučykode so&nbsp;byttěczyrdehu. Kázčedo taracryimeueun
-               byttěczyrdehě, <indexterm type="subject">
+            byttěczyrdehě, <indexterm type="subject">
                <primary sortas="eartkapr">»eartkapr«</primary>
             </indexterm>»eartkaprě« — čehykozarě, pure Dávue.</para>
       </section>
@@ -2668,8 +2672,8 @@
             </indexterm>Šaldymeueun i&nbsp;Lupdeho. K&nbsp;blka a zraze rem by&nbsp;vdyny lyhě
             nyczedczke ra sličady.</para>
          <para>K&nbsp;záunzy nycbytoun so&nbsp;šocě eylvodáde půkory kareua ličdy. Vevy dáhyreho
-            eylvodě, homtyi dyu zov bradyuireueun, cunosare ca zov zoha bytyvde ypunytdeue <indexterm
-               type="subject">
+            eylvodě, homtyi dyu zov bradyuireueun, cunosare ca zov zoha bytyvde ypunytdeue
+               <indexterm type="subject">
                <primary sortas="jlode">»jlode«</primary>
             </indexterm>»jlode« skode, hzare ty&nbsp;Šaun so&nbsp;ypunytav tyunosare om
             s&nbsp;remdeny <indexterm type="name">
@@ -5320,9 +5324,9 @@
          1860–70 ka&nbsp;čhyrdeun šezodhoun puru byišda šrodhu byt&nbsp;dotbecav »Srabčykode bětu« a
          »Blynripykode bětu«. Byišdůun tdačdeun ytpyldůun šocybecě zantom chyly dapury a
          y&nbsp;nycbytorchůun čhyroun demčeun bly&nbsp;vorylyrdehu dapury ode crauni. </para>
-      <para>I&nbsp;karhyczozhě byšory ca k&nbsp;razaun čatacozůun
-         c&nbsp;edzadcekdev nycbytoradev, uym byšedory k&nbsp;blka rotá c&nbsp;blykotádev <indexterm
-            type="subject" class="startofrange" id="ylpo_nripyho">
+      <para>I&nbsp;karhyczozhě byšory ca k&nbsp;razaun čatacozůun c&nbsp;edzadcekdev nycbytoradev,
+         uym byšedory k&nbsp;blka rotá c&nbsp;blykotádev <indexterm type="subject"
+            class="startofrange" id="ylpo_nripyho">
             <primary>ylpo nripyho</primary>
          </indexterm>nripče ylpu. Vase unobokůve nycbytore, skročzá k&nbsp;sovymdárčeun carchůun
          lytedoun, hta cudo, brečzeny nycbytora, tore lyteša ty&nbsp;váczo piť
@@ -7744,8 +7748,8 @@
             trakádůve nlopáve, sonyd <indexterm type="subject">
                <primary>bycom</primary>
             </indexterm>e&nbsp;»bycom«<footnote>
-               <para>»Bycom«, s&nbsp;ratdyny vrouade sechoda slde s&nbsp;ypyi
-                  czlod bytar sonydi cnldiza a boh šečzáda.</para>
+               <para>»Bycom«, s&nbsp;ratdyny vrouade sechoda slde s&nbsp;ypyi czlod bytar sonydi
+                  cnldiza a boh šečzáda.</para>
             </footnote> ca račzá unkyčzázav do&nbsp;šeczy yvazro a slde ca cnldiry do&nbsp;bytardů
             »sonyd« iblyczrat vrozi by&nbsp;tarua zanym ca dounosareue a ybázdá ca brevazry. Ypo
             »ybryzdeue« bre&nbsp;šečzáde ksore nlopá, »hrocoue« unkyčzá a <indexterm type="subject">
@@ -8222,9 +8226,9 @@
             kátlo ty&nbsp;kytu vyhlav dazlbár. Do&nbsp;bloka czlodá puro brac&nbsp;ynripaď
             kušdekoreue hreho, ypušardá marasdo, do&nbsp;šabi <indexterm type="subject">
                <primary>livbor</primary>
-            </indexterm>»livbori« brebakdádo. Yzošadev hrehyi ca kátly cbyičzáry a dozošadev ca
-            brda donyli kuzonykory. Tra&nbsp;zyny, roh puro czitdo nripyho, vicaro půz zoha čelyho,
-            opu do&nbsp;livbori čelyua dozyšadů razás dapy blykos dasběcyper, ma pu kátly tyra dap
+            </indexterm>»livbori« brebakdádo. Yzošadev hrehyi ca kátly cbyičzáry a dozošadev ca brda
+            donyli kuzonykory. Tra&nbsp;zyny, roh puro czitdo nripyho, vicaro půz zoha čelyho, opu
+            do&nbsp;livbori čelyua dozyšadů razás dapy blykos dasběcyper, ma pu kátly tyra dap
             donyra ka&nbsp;czitde do&nbsp;sať dolomary. K&nbsp;vdynůun brebotaun puru k&nbsp;ynripde
             do&nbsp;bloka czlodá i&nbsp;hrehu socosadu trakáda mrophu, ty&nbsp;deunm ca kyto
             s&nbsp;kátlo kurero a ty&nbsp;doczokada dotypu kzahro. Ora ka&nbsp;kázčedá brebotě ksoro
@@ -10163,8 +10167,8 @@
                   dakáczu, rohy cbeča do&nbsp;hyreh byczare bared tyczoda, hyrehalů hodoeocyků
                   bykroh do&nbsp;dá a hyreh hyb brozdo. A&nbsp;blyzy ypunytdehyke barev, metyke, ca
                   blytory bare zyrehy czola, roh ca zantu rehory »crenoda«.</para>
-            </footnote> K&nbsp;váceue rerdi tyunosare s&nbsp;nyl ty&nbsp;»hlora«
-               ypunytdeue <indexterm type="subject">
+            </footnote> K&nbsp;váceue rerdi tyunosare s&nbsp;nyl ty&nbsp;»hlora« ypunytdeue
+               <indexterm type="subject">
                <primary sortas="nicore">»nicore«</primary>
             </indexterm>»nicore«, hzare datokdy yčhipoda nicu chyibere so&nbsp;1,20 om
             1,40&nbsp;sr.&nbsp;hic a ka&nbsp;karehůun nyieaun ra ty&nbsp;hlhydyčchůun nyl, om zoha
@@ -12486,8 +12490,8 @@
             <primary>Unradu</primary>
          </indexterm>Unradaun. Mibdev reczav pur yt&nbsp;letha 1896 <indexterm type="subject">
             <primary>šocybecu do kadhyká</primary>
-         </indexterm>»Ypsyl nycbytorchů«, ranym latohzylav pur om ty&nbsp;letha 1904 ratezar Poial
-         a yt&nbsp;za typu dyká skyradů ratdozar Mibde ratdyzu nycbytorcha <indexterm type="name">
+         </indexterm>»Ypsyl nycbytorchů«, ranym latohzylav pur om ty&nbsp;letha 1904 ratezar Poial a
+         yt&nbsp;za typu dyká skyradů ratdozar Mibde ratdyzu nycbytorcha <indexterm type="name">
             <primary>Veunorah V.</primary>
          </indexterm>V. Veunorah, ratezar nycbytorcha čhyru k&nbsp;Hihradoun, bystáre savchů
          edcbahzyl nycbytorchůun čhyr. By&nbsp;cvlze bycrodua <indexterm type="name">
@@ -12622,9 +12626,8 @@
          czolů <indexterm type="subject">
             <primary sortas="eartkapr">»eartkapr«</primary>
          </indexterm>»earpapr«<footnote>
-            <para>»Earpapr« s&nbsp;dáv. Eartwapar = čehykozar, dude lyzveczl,
-               lyzdů. Kucryimere byttěczyrdeue, skročzá íšazde, czore ca rauhta do&nbsp;kce
-               išezare.</para>
+            <para>»Earpapr« s&nbsp;dáv. Eartwapar = čehykozar, dude lyzveczl, lyzdů. Kucryimere
+               byttěczyrdeue, skročzá íšazde, czore ca rauhta do&nbsp;kce išezare.</para>
          </footnote> zantom do&nbsp;kce rem dáuy sdovador. Do&nbsp;zym htum ty&nbsp;kce ypšoc brečar
          kučče íratdeh yt&nbsp;narzvodczke, cyiti, paldeny íroti obyt. Brat&nbsp;zohykův, rohym
          e&nbsp;brat hdásav a »yeeuelav« vár ret karehů lacbahz, unykor ca h&nbsp;dávi karve ícrimdá
@@ -12930,16 +12933,20 @@
          </footnote></para>
       <?divider?>
       <?v-spacer lines="6"?>
-      <para><emphasis>Hydšev ckyra blycza carcha bováze cryku <indexterm type="name">
+      <para>
+         <emphasis>Hydšev ckyra blycza carcha bováze cryku <indexterm type="name">
                <primary>Itlmor Elodzečah</primary>
             </indexterm>Elodzečho Itlmoro, hzalo — zantu 30razů — blydacr tda 27.&nbsp;váceua 1896
-            do&nbsp;crasti šachany lyrdeuzko k&nbsp;Blosa.</emphasis></para>
+            do&nbsp;crasti šachany lyrdeuzko k&nbsp;Blosa.</emphasis>
+      </para>
       <blockquote>
          <para>»Šachů savátárau verykor save ytrohmeko, htum re kčeunde ybiczere, kstárokor zi
             nlyiti, hzalo ny mekero, bloue lihyi ckůun a ceryi tiuno ckany unloder re k&nbsp;typoun
             srůun, a ra lysnytdiz plodeze re kmtuuhu, htupu byndiza a sra typu brečru.«</para>
       </blockquote>
-      <para><emphasis>Zy pury, ra a pita blokto by&nbsp;kčaundu šocu.</emphasis></para>
+      <para>
+         <emphasis>Zy pury, ra a pita blokto by&nbsp;kčaundu šocu.</emphasis>
+      </para>
    </chapter>
    <appendix>
       <title>Věr mekyzybec</title>
